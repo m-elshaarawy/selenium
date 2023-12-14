@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Selenium.App": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "00": "00"
+      }
+    }
+  }
+}
